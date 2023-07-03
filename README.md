@@ -1,5 +1,5 @@
 # Monkey With The Instant Messaging Service
-
+Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
 ##📖About
 Monkey with the IMS, or MWDIMS is a full stack application made with ReactJS and Google Firebase. Use it to send messages, or even images, instantly to your friends using Google Accounts. Come check it out <a href="https://mwdims.netlify.app/login">here</a>
 
